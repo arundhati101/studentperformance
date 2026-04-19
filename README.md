@@ -9,7 +9,7 @@ This project analyzes student performance data using SQL, Excel, and Python. It 
 
 - **sql/** → Contains SQL script and query outputs  
 - **excel/** → Contains Excel file and pivot table output  
-- **python/** → Contains dataset, notebook, and visualizations  
+- **python&visualisation/** → Contains dataset, notebook, and visualizations  
 
 ---
 
